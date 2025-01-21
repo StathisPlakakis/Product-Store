@@ -1,4 +1,4 @@
-- # Product Store CRUD App
+# Product Store CRUD App
 
 This is a simple full-stack application designed to demonstrate a fundamental understanding of CRUD (Create, Read, Update, Delete) operations. The app allows users to manage a list of products, showcasing seamless integration between the frontend and backend.
 
